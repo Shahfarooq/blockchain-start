@@ -21,9 +21,6 @@ Understanding Proof of Work
 A Proof of Work algorithm (PoW) is how new Blocks are created or mined on the blockchain.
 
 The goal of PoW is to discover a number which solves a problem. The number must be difficult to find but easy to verify for anyone on the network. The number is made of cryptographic signatures, meaning that if the wrong number is sent somewhere it will be denied access. Thus the PoW algorithm means you can now send money without having to trust anybody or any organisation, as the blockchain only cares about the cryptographic signatures.
-<p align="center"> 
-<img src="https://d2omlh28jsv4r7.cloudfront.net/wp-content/uploads/2017/03/infographics2017-01.png">
-</p
 
 
 ### Step 2 - Making our blockchain an API endpoint
